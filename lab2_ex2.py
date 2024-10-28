@@ -34,13 +34,13 @@ def sort_temp(list):
 def median_temp(list):
     return statistics.median(list)
 
-calc_avg(get_user_input())
-find_min_max(get_user_input())
+#calc_avg(get_user_input())
+#find_min_max(get_user_input())
 
 sorted_values = sort_temp(get_user_input())
 print(sorted_values)
 
-median_value = median_temp(get_user_input())
+median_value = median_temp(sorted_values)
 print(median_value)
 
 if __name__ == "__main__":
