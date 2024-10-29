@@ -21,7 +21,7 @@ def calc_bmi(height, weight):
 if __name__ == "__main__":
     main()
     
-x = calc_bmi(weight=85, height=1.73)
+#x = calc_bmi(weight=40, height=1.8)
 #print("The return value is  : "+ str(x))
 
 
