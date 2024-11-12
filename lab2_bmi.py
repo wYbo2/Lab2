@@ -6,6 +6,7 @@ def calc_bmi(height, weight):
     print("Height : " + str(height))
     print("Weight : "+ str(weight))
     bmi = str(weight/(height*height))
+    print(bmi)
     #return bmi
     if bmi < "18.5":
         print("Underweight")
@@ -20,7 +21,8 @@ def calc_bmi(height, weight):
 
 if __name__ == "__main__":
     main()
-    
+
+calc_bmi(weight=40, height=1.8)
 #x = calc_bmi(weight=40, height=1.8)
 #print("The return value is  : "+ str(x))
 
