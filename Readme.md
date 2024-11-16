@@ -10,4 +10,5 @@ git status
 git add
 git commit
 ```
-The background color is `#ffffff` for light mode and `#000fff` for dark mode.
+
+git link [LAB3](https://github.com/wYbo2/Lab3)
