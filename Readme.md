@@ -17,3 +17,7 @@ git link [LAB3](https://github.com/wYbo2/Lab3)
 - George Washington
 - John Adams
 - Thomas Jefferson
+
+1. Nested List
+    - inside list item 1
+2. Item 2
