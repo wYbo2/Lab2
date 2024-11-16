@@ -3,3 +3,10 @@
 
 **This is bold text**
 > This will be a quote
+
+Some Basic Git Commands are: 
+```
+git status
+git add
+git commit
+```
