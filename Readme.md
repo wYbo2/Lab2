@@ -21,3 +21,6 @@ git link [LAB3](https://github.com/wYbo2/Lab3)
 1. Nested List
     - inside list item 1
 2. Item 2
+
+- [x] checklist 1
+- [] checklist 2
